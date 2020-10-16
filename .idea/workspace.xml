@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcf86888-cab9-4172-958c-28ba4e138688" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/javaEEtask" />
+  </component>
+  <component name="ProjectId" id="1iZmhW21dl7V0CCXgYmaBYgYLcB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/JavaEE代码汇总/html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\35708\Desktop\新建文件夹\网页布局案例(1)\project" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcf86888-cab9-4172-958c-28ba4e138688" name="默认更改列表" comment="" />
+      <created>1602123608476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602123608476</updated>
+      <workItem from="1602123611958" duration="2822000" />
+      <workItem from="1602136668349" duration="227000" />
+      <workItem from="1602137010625" duration="6050000" />
+      <workItem from="1602225774434" duration="3342000" />
+      <workItem from="1602308932258" duration="13012000" />
+      <workItem from="1602328251849" duration="5904000" />
+      <workItem from="1602334174170" duration="13860000" />
+      <workItem from="1602466360466" duration="96000" />
+      <workItem from="1602573801382" duration="670000" />
+      <workItem from="1602829291515" duration="13000" />
+      <workItem from="1602829982269" duration="670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1602334048026">
+      <screen x="0" y="0" width="1471" height="864" />
+    </state>
+    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1471.864@0.0.1471.864" timestamp="1602334048026" />
+    <state x="393" y="197" key="run.anything.popup" timestamp="1602341751884">
+      <screen x="0" y="0" width="1471" height="864" />
+    </state>
+    <state x="393" y="197" key="run.anything.popup/0.0.1471.864@0.0.1471.864" timestamp="1602341751884" />
+    <state x="399" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1602309769082">
+      <screen x="0" y="0" width="1471" height="864" />
+    </state>
+    <state x="399" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1471.864@0.0.1471.864" timestamp="1602309769082" />
+  </component>
+</project>
